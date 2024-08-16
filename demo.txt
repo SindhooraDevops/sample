@@ -1,1 +1,1 @@
-echo "some test file"
+echo "sample demo file"
